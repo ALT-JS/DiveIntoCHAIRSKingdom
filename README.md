@@ -60,13 +60,13 @@ AI-*****:\*******\experiments\PHOSA\CHAIRS\{第几个序列}\0\{第几张图片�
 接下来，如果你想寻找ground truth，只需要访问
 
 ```cmd
-share_folder:\ho_datasets\CHAIRS\human_GT\64\123541
+share_folder:\ho_********\CHAIRS\human_GT\64\123541
 ```
 
 以及
 
 ```cmd
-share_folder:\ho_datasets\CHAIRS\object_GT\64\123541
+share_folder:\ho_********\CHAIRS\object_GT\64\123541
 ```
 
 最后一个帧数改一下就可以了。
