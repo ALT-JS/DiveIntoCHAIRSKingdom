@@ -46,7 +46,7 @@ seqs = list(map(lambda x: '0' + str(x), seqs))
 首先，对于你跑的某一文件夹下的某个图片，例如0289下0视角（只有0视角）的第6张图片**（从0开始编号所以索引为5）**
 
 ```cmd
-AI-being:\zhaochf\experiments\PHOSA\CHAIRS\0289\0\5\frame.txt
+AI-*****:\*******\experiments\PHOSA\CHAIRS\0289\0\5\frame.txt
 ```
 
 会告诉你，这张图片对应CHAIRS的123541帧。
@@ -54,7 +54,7 @@ AI-being:\zhaochf\experiments\PHOSA\CHAIRS\0289\0\5\frame.txt
 公式（要改的地方）：
 
 ```cmd
-AI-being:\zhaochf\experiments\PHOSA\CHAIRS\{第几个序列}\0\{第几张图片，0开始标号}\frame.txt
+AI-*****:\*******\experiments\PHOSA\CHAIRS\{第几个序列}\0\{第几张图片，0开始标号}\frame.txt
 ```
 
 接下来，如果你想寻找ground truth，只需要访问
