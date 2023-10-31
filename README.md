@@ -3,7 +3,7 @@ Give you a rough yet clear explanation about the CHAIRS dataset.
 
 **DICK**, **D**ive **I**nto **C**HAIRS **K**ingdom
 
-### 以下数据来自[Koyui](https://github.com/Koyui) evaluation
+### [Koyui](https://github.com/Koyui) evaluation
 
 选取物体为第64个，对应序列的文件夹为0289，0290，0291，0292，0293，0294，0295，0296，0297，0301，0302，0303，0304，0305和0306
 
