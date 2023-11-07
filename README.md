@@ -78,4 +78,6 @@ humanGT目录下data.json是smpl数据，请忽略joints.txt/joints.json，但�
 
 ### CHAIRS相机参数
 
-**<font color='blue'> 悬而未解，等我再看看或者还有高手。。。。。。</font>**
+我们已经通过人工在blender中match人与物解决了这个问题。非常粗糙。
+但如果你想要的话……
+已经更新了。
